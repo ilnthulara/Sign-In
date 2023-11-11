@@ -1,3 +1,3 @@
 # Sign-In
 
-git clone https://github.com/ilnthulara/Sign-In.gitE
+To execute this open the index.html file in the browser.
